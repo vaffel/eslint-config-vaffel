@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-vaffel",
+  "version": "1.0.0",
+  "description": "VaffelNinja ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/config-test.js",
+    "pretest": "eslint .",
+    "prepublish": "npm prune && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vaffel/eslint-config-vaffel.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "coding-standard"
+  ],
+  "author": "VaffelNinja AS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaffel/eslint-config-vaffel/issues"
+  },
+  "homepage": "https://github.com/vaffel/eslint-config-vaffel",
+  "dependencies": {
+    "eslint": "^0.21.0",
+    "lodash.merge": "^3.2.1"
+  }
+}
