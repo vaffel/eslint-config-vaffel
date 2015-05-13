@@ -1,5 +1,7 @@
 # VaffelNinja ESLint Config
 
+[![Version npm](http://img.shields.io/npm/v/eslint-config-vaffel.svg?style=flat-square)](http://browsenpm.org/package/eslint-config-vaffel)[![Build Status](http://img.shields.io/travis/vaffel/eslint-config-vaffel/master.svg?style=flat-square)](https://travis-ci.org/vaffel/eslint-config-vaffel)
+
 ## How to use it
 
 First, install the npm package:
