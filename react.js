@@ -4,13 +4,13 @@ var merge = require('lodash.merge');
 var baseConfig = require('./index');
 
 var reactConfig = {
-    'plugins': [
+    plugins: [
         'react'
     ],
-    'ecmaFeatures': {
-        'jsx': true
+    ecmaFeatures: {
+        jsx: true
     },
-    'rules': {
+    rules: {
         'react/jsx-boolean-value': 2,
         'react/jsx-quotes': [2, 'double', 'avoid-escape'],
         'react/jsx-no-undef': 2,
