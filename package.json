@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vaffel",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "VaffelNinja ESLint configuration",
   "main": "index.js",
   "scripts": {
