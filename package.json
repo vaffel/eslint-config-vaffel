@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/vaffel/eslint-config-vaffel",
   "dependencies": {
-    "lodash.merge": "^3.2.1"
+    "lodash.merge": "^4.6.2"
   },
   "devDependencies": {
     "eslint": "^3.0.1",
